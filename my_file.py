@@ -1,3 +1,3 @@
 print('Hi Git')
 
-print out from anoter file
+print('Hi from another friend')

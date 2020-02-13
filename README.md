@@ -1,3 +1,3 @@
 My Git Project
 
-this is a good prectice
+My code for the Git project
